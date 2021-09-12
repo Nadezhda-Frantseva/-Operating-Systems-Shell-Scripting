@@ -1,3 +1,5 @@
+This is the solutions of the first homework (shell script) on Operating Systems - the course in FMI, SU, 05.2021
+
 ardf_fetch.sh - shell script solution of the first task;
 
 ardf_stats.sh - shell script solution of the second task;
